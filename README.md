@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carbseater
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Android development
 - 📫 How to reach me ...
 Email - madhavmishra28@gmail.com
 Instagram - @highoncarb
