@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Madhav mishra
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Android development
-- 📫 How to reach me ...
-Email - madhavmishra28@gmail.com
-Instagram - @highoncarb
+- 📫 Email - madhavmishra28@gmail.com
 
-<!---
-carbseater/carbseater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<a href="https://github.com/carbseater">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbseater&langs_count=8&theme=light" />
+</a>
+<a href="https://github.com/carbseater">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=carbseater&show_icons=true&theme=light&line_height=27"/>
+</a>
