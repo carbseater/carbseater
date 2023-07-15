@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Madhav mishra
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Android development
+- 👀 I’m interested in Mobile and Web development
 - 📫 Email - madhavmishra28@gmail.com
 
 
